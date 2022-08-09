@@ -1,0 +1,1 @@
+{'Power bank': 3, 'Smartwatch': 3, 'Cap': 2}

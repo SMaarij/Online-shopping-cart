@@ -1,0 +1,4 @@
+Clothing;Pant:500,Skirt:600,Vest:100,Tie:50,Sweater:700,Coat:400,Cap:70,Scarf:300,Abaya:1200,Frock:1500
+Electronics;Phone:61000,Phonecase:500,Handsfree:200,Smartwatch:8000,Charger:600,Airdots:5000,USB:600,Power bank:700,Memory card:1500
+Grocery;Sugar:200,Salt:80,Rice:1000,Oil:3100,Tea:700,Shampoo:600,Soap:30,Washing Soda:800,Flour:700,Pulses:250
+Fruits;Apple:300,Banana:80,Apricot:150,Pineapple:400,Orange:150,Watermelon:100,Grapes:180,Peach:190,Mango:290,Cherry:400

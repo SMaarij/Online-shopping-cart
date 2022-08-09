@@ -1,0 +1,39 @@
+Pant:6
+Skirt:8
+Vest:20
+Tie:-5
+Sweater:14
+Coat:-8
+Cap:12
+Scarf:-16
+Abaya:6
+Frock:11
+Phone:18
+Phonecase:7
+Handsfree:16
+Smartwatch:2
+Charger:19
+Airdots:1
+USB:20
+Power bank:20
+Memory card:18
+Sugar:18
+Salt:20
+Rice:5
+Oil:17
+Tea:8
+Shampoo:19
+Soap:20
+Washing Soda:20
+Flour:20
+Pulses:20
+Apple:18
+Banana:19
+Apricot:15
+Pineapple:15
+Orange:14
+Watermelon:15
+Grapes:12
+Peach:20
+Mango:10
+Cherry:20
